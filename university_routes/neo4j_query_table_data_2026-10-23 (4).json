@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "relationship",
+    "walking_time": 4
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 6
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 8
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 2
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 5
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 3
+  },
+  {
+    "entity": "relationship",
+    "walking_time": 7
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 5,
+        "name": "Главный корпус",
+        "id": "B01"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 4,
+        "name": "Корпус информационных технологий",
+        "id": "B02"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 3,
+        "name": "Корпус инженерии",
+        "id": "B03"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 4,
+        "name": "Корпус экономики",
+        "id": "B04"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 6,
+        "name": "Научный корпус",
+        "id": "B05"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 3,
+        "name": "Библиотека",
+        "id": "B06"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 2,
+        "name": "Спортивный корпус",
+        "id": "B07"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 4,
+        "name": "Корпус общественных наук",
+        "id": "B08"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 5,
+        "name": "Лабораторный корпус",
+        "id": "B09"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Building"
+      ],
+      "properties": {
+        "address": "Университетская территория",
+        "floors": 2,
+        "name": "Студенческий центр",
+        "id": "B10"
+      },
+      "elementId": "4:7a5db49f-1912-4a02-96f2-c45d24d10fd2:9"
+    }
+  }
+]
